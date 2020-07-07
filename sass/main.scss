@@ -7,7 +7,7 @@
 @import "base/typography";
 @import "base/utilities";
 
-@import "pages/home";
+@import "components/button" @import "pages/home";
 
 .header {
   height: 95vh;
